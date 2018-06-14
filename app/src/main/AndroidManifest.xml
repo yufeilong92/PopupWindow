@@ -16,7 +16,9 @@
             </intent-filter>
         </activity>
         <activity android:name=".activity.GravityActivity" />
-        <activity android:name=".activity.PopupActivity"></activity>
+        <activity android:name=".activity.PopupActivity" />
+        <activity android:name=".activity.Main2Activity"
+            ></activity>
     </application>
 
 </manifest>
